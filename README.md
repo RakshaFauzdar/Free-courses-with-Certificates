@@ -238,6 +238,14 @@ GREAT LEARNING ACADEMY- Docker Best Practices<br>
 Website-https://www.greatlearning.in/academy/learn-for-free/courses/docker-best-practices<br>
 <br>
 </details>
+<details>
+<summary>Get Ahead with Front-end Development</summary>
+<br>
+An interview-centric course that focuses on front-end development and problem-solving!<br>
+Website-https://practice.geeksforgeeks.org/courses/frontend-dev?vC=1<br>
+<br>
+<br>
+</details>
 
 <details>
 <summary>Github</summary>
